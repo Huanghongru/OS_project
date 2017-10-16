@@ -1,0 +1,15 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Project Assignment}{2}
+\contentsline {section}{\numberline {2}Project Implementation}{2}
+\contentsline {subsection}{\numberline {2.1}Preparing}{2}
+\contentsline {subsection}{\numberline {2.2}Download the kernel}{2}
+\contentsline {subsection}{\numberline {2.3}Define a new system call sys\_helloworld()}{3}
+\contentsline {subsection}{\numberline {2.4}Modify the kernel}{3}
+\contentsline {subsubsection}{\numberline {2.4.1}Add the hello directory to the kernel's Makefile}{3}
+\contentsline {subsubsection}{\numberline {2.4.2}Add the new system call into the system call table}{3}
+\contentsline {subsubsection}{\numberline {2.4.3}Add the new system call in the system call header file}{4}
+\contentsline {subsection}{\numberline {2.5}Update the kernel}{4}
+\contentsline {subsubsection}{\numberline {2.5.1}Compile the kernel}{4}
+\contentsline {subsubsection}{\numberline {2.5.2}Install the kernel}{4}
+\contentsline {subsection}{\numberline {2.6}Test the system call}{4}
+\contentsline {section}{\numberline {3}Conclusion}{5}
